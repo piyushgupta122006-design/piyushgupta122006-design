@@ -43,6 +43,8 @@
 </td>
 <td width="50%">
 
+BNN CS STUDY HUB is a modern, mobile-first web app for CS students to access notes, practicals, PYQs, and assignments — organized by semester and subject. Features Google Authentication, an admin panel, an AI assignment assistant, and real-time visitor analytics powered by Firebase.
+
 | Layer | Technology |
 |---|---|
 | Frontend | React, Tailwind CSS |
