@@ -61,7 +61,7 @@
 <tr>
 <td width="50%">
 <a href="https://github.com/piyushgupta122006-design/QR-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushgupta122006-design&repo=QR-Generator&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="QR Generator"/>
+  <img src="https://www.trustpilot.com/review/www.online-qr-generator.com" alt="QR Generator"/>
 </a>
 </td>
 <td width="50%">
