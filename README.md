@@ -48,8 +48,8 @@ BNN CS STUDY HUB is a modern, mobile-first web app for CS students to access not
 | Layer | Technology |
 |---|---|
 | Frontend | React, Tailwind CSS |
-| Backend/DB | Firebase |
-| Type | Study resource platform for FYCS students |
+| Auth | Google Authentication (Firebase) |
+| Backend/DB | Firebase (Firestore, Hosting) |
 
 **🔗 [Code](https://github.com/piyushgupta122006-design/FYCS-Study-Hub)**
 
