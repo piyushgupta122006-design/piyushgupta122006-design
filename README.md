@@ -63,7 +63,7 @@ BNN CS STUDY HUB is a modern, mobile-first web app for CS students to access not
 <tr>
 <td width="50%">
 <a href="https://github.com/piyushgupta122006-design/QR-Generator">
-  <img src=""C:\Users\PIYUSH\Downloads\Gemini_Generated_Image_drk92qdrk92qdrk9.png"" alt="QR Generator"/>
+  <img src="C:\Users\PIYUSH\Downloads\Gemini_Generated_Image_drk92qdrk92qdrk9.png" alt="QR Generator"/>
 </a>
 </td>
 <td width="50%">
