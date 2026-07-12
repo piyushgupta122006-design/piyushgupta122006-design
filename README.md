@@ -38,7 +38,7 @@
 <tr>
 <td width="50%">
 <a href="https://github.com/piyushgupta122006-design/FYCS-Study-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushgupta122006-design&repo=FYCS-Study-Hub&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="FYCS Study Hub"/>
+  <img src="https://raw.githubusercontent.com/piyushgupta122006-design/FYCS-Study-Hub/main/public/favicon.png" alt="FYCS Study Hub"/>
 </a>
 </td>
 <td width="50%">
