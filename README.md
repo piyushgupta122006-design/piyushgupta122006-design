@@ -85,7 +85,7 @@ BNN CS STUDY HUB is a modern, mobile-first web app for CS students to access not
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
 
 **Frontend**
 
