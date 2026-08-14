@@ -3,16 +3,22 @@
   srcset="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/main/dark.svg">
   <source media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/main/light.svg">
-  <img alt="Piyush Gupta" src="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/main/light.svg">
+  <img alt="Piyush Gupta" src="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/main/dark.svg" width="100%">
 </picture>
 
+<!-- Phase 2: Themed Stats Cards (Self-Hosted Vercel Instance) -->
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=piyushgupta122006-design&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=piyushgupta122006-design&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak Stats" />
+
 <br/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushgupta122006-design&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgupta122006-design&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+
+<img width="49%" src="https://github-readme-stats-six-puce-99.vercel.app/api?username=piyushgupta122006-design&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-six-puce-99.vercel.app/api/top-langs/?username=piyushgupta122006-design&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+
 </div>
 
+<!-- Phase 3: Contribution Snake Animation -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -20,11 +26,13 @@
   <source media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/output/github-snake.svg" />
   <img alt="Snake eating my contributions"
-  src="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/output/github-snake.svg" />
+  src="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/output/github-snake.svg" width="100%" />
 </picture>
 </div>
 
+<!-- Phase 4: Unified Social Badges -->
 <div align="center">
+
 <a href="https://www.linkedin.com/in/piyush-gupta-377694335/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -44,4 +52,5 @@
 <a href="https://x.com/BirendraPiyush">
   <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=F8FAFC&labelColor=0A101F" alt="X" />
 </a>
+
 </div>
