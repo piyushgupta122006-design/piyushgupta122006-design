@@ -60,9 +60,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
       <h3>📚 <a href="https://github.com/piyushgupta122006-design/FYCS-Study-Hub">FYCS Study Hub</a></h3>
       <p>Mobile-first study portal for CS students to access semester-wise notes, practicals, PYQs, and assignments. Features Google Auth, admin panel, and AI assistant.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,firebase&theme=dark" height="34" />
       </p>
       <p>
         🔗 <a href="https://fycs-study-hub.vercel.app/"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
@@ -73,9 +71,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
       <h3>🧠 <a href="https://github.com/piyushgupta122006-design/StressSense">StressSense</a></h3>
       <p>Real-time stress level detection and wellness tracking platform designed to help users manage burnout and monitor cognitive wellness.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=js,html,vercel&theme=dark" height="34" />
       </p>
       <p>
         🔗 <a href="https://stress-sense-pvs.vercel.app/"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
@@ -88,9 +84,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
       <h3>⚡ <a href="https://github.com/piyushgupta122006-design/compressify">Compressify</a></h3>
       <p>High-performance client-side image compression tool that reduces image sizes instantly in the browser without quality loss or server uploads.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=ts,nextjs,vercel&theme=dark" height="34" />
       </p>
       <p>
         🔗 <a href="https://compressify-piyushgupta.vercel.app"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
@@ -101,9 +95,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
       <h3>🔳 <a href="https://github.com/piyushgupta122006-design/QR-Generator">QR Generator</a></h3>
       <p>Lightweight and responsive custom QR Code generator utility with immediate download, custom styling, and responsive controls.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=js,css,html&theme=dark" height="34" />
       </p>
       <p>
         🔗 <a href="https://qr-generator-piyushgupta.vercel.app"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
@@ -116,9 +108,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
       <h3>🌐 <a href="https://github.com/piyushgupta122006-design/my-portfolio">Personal Portfolio</a></h3>
       <p>Clean and interactive personal portfolio showcasing developer journey, featured works, contact form, and technical capabilities.</p>
       <p>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=css,html,vercel&theme=dark" height="34" />
       </p>
       <p>
         🔗 <a href="https://my-portfolio-piyushgupta.vercel.app/"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
@@ -129,9 +119,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
       <h3>⚙️ <a href="https://github.com/piyushgupta122006-design/piyushgupta122006-design">Terminal Profile & Dither Engine</a></h3>
       <p>Special profile repo featuring an animated live terminal banner, Floyd-Steinberg dither engine in Python, and automated snake workflow.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SVG_SMIL-FFB13B?style=flat-square&logo=svg&logoColor=black" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=py,svg,githubactions&theme=dark" height="34" />
       </p>
       <p>
         📁 <a href="https://github.com/piyushgupta122006-design/piyushgupta122006-design"><strong>Repository</strong></a>
@@ -174,13 +162,12 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
 
 <br/><br/>
 
-**AI Models & Agentic IDEs**<br/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Qoder-6366F1?style=flat-square&logo=visualstudiocode&logoColor=white" />
+**AI Models & Agentic Tooling**<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bots,ai,vscode,github,gcp,py&theme=dark" />
+</a>
+<br/>
+<sub><em>Augmented with Google Gemini, Claude, ChatGPT, Google Antigravity, Cursor & Qoder</em></sub>
 
 </div>
 
