@@ -163,11 +163,9 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
 <br/><br/>
 
 **AI Models & Agentic Tooling**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bots,ai,vscode,github,gcp,py&theme=dark" />
-</a>
+<img src="https://raw.githubusercontent.com/piyushgupta122006-design/piyushgupta122006-design/main/ai-tools.svg" height="48" alt="Google Gemini, Claude, ChatGPT, Google Antigravity, Cursor, Qoder" />
 <br/>
-<sub><em>Augmented with Google Gemini, Claude, ChatGPT, Google Antigravity, Cursor & Qoder</em></sub>
+<sub><em>Google Gemini · Anthropic Claude · OpenAI ChatGPT · Google Antigravity · Cursor · Qoder</em></sub>
 
 </div>
 
