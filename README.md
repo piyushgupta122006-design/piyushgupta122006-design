@@ -41,13 +41,14 @@ Status: CS Undergrad (SYCS) & Full-Stack Web Developer
 Focus: Modern Web Applications, AI Tools & Cloud Architecture
 Building: Stresssense (Web & Android Application) & BNN CS Study Hub
 Learning: React, Next.js, Firebase, Supabase, Cloud & DevOps
-Motto: "I use my own creativity for building every project 🎨"
+Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claude, ChatGPT, Antigravity, Cursor & Qoder) 🎨⚡🤖"
 ```
 
 - 🎓 **Education:** B.Sc. Computer Science (SYCS)
 - 🔭 **Currently Working On:** Stresssense (Web & Android Application) & BNN CS Study Hub
+- ⚡ **Workflow & Superpower:** AI-Assisted Engineering & Vibe Coding with Google Antigravity, Cursor, Gemini & Claude
 - 👯 **Open For:** Full-Stack Collaborations, Open-Source Contributions & Hackathons
-- 💬 **Ask Me About:** Web Development, Computer Science, UI/UX & Vibe Coding
+- 💬 **Ask Me About:** Web Development, AI Agents & Tooling, Computer Science, UI/UX & Vibe Coding
 
 ---
 
@@ -170,6 +171,16 @@ Motto: "I use my own creativity for building every project 🎨"
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,postman,figma&theme=dark" />
 </a>
+
+<br/><br/>
+
+**AI Models & Agentic IDEs**<br/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Qoder-6366F1?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
