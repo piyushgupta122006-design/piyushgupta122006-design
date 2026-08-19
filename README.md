@@ -81,14 +81,14 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/piyushgupta122006-design/compressify">Compressify</a></h3>
-      <p>High-performance client-side image compression tool that reduces image sizes instantly in the browser without quality loss or server uploads.</p>
+      <h3>⚡ <a href="https://github.com/piyushgupta122006-design/flash-crush-files">Flash Crush-Files</a></h3>
+      <p>Fast, private, client-side PDF & image compressor and multi-format converter. Features adjustable quality, custom KB size targeting, and Google Drive export.</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=ts,nextjs,vercel&theme=dark" height="34" />
+        <img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel&theme=dark" height="34" />
       </p>
       <p>
-        🔗 <a href="https://compressify-piyushgupta.vercel.app"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
-        📁 <a href="https://github.com/piyushgupta122006-design/compressify"><strong>Repository</strong></a>
+        🔗 <a href="https://piyush-flash-crush-files.vercel.app/"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
+        📁 <a href="https://github.com/piyushgupta122006-design/flash-crush-files"><strong>Repository</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
