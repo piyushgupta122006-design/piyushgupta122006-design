@@ -59,6 +59,7 @@ Motto: "Blending human creativity with Next-Gen AI & Agentic IDEs (Gemini, Claud
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/piyushgupta122006-design/FYCS-Study-Hub">FYCS Study Hub</a></h3>
       <p>Mobile-first study portal for CS students to access semester-wise notes, practicals, PYQs, and assignments. Features Google Auth, admin panel, and AI assistant.</p>
+      <p><strong>👤 Primary:</strong> <a href="https://github.com/RishikeshShau">Rishikesh Shau</a> &nbsp;|&nbsp; <strong>🤝 Secondary:</strong> <a href="https://github.com/piyushgupta122006-design">Piyush Gupta</a></p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,tailwind,firebase&theme=dark" height="34" />
       </p>
